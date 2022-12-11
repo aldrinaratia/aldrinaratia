@@ -1,5 +1,5 @@
 
-[![Masterhead](https://github.com/aldrinaratia/PROJECTS/blob/main/profile/masterheadgithub.jpg)]
+![Masterhead](https://github.com/aldrinaratia/PROJECTS/blob/main/profile/masterheadgithub.jpg)()
 
 <h1 align="center">Hi 👋, I'm Aldrin Aratia</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
