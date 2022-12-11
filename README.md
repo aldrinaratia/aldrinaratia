@@ -1,9 +1,7 @@
-
 [![Masterhead](https://github.com/aldrinaratia/PROJECTS/blob/main/profile/masterheadgithub.jpg)]
 <h1 align="center">Hi 👋, I'm Aldrin Aratia</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/aldrinaratia/PROJECTS/blob/main/profile/profilegithub.jpg"
-
+<img align="right" alt="Coding" width="300" height="300" src="https://github.com/aldrinaratia/PROJECTS/blob/main/profile/profilegithub.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrinaratia&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinaratia" /> </p>
 
